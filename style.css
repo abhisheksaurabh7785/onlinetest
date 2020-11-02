@@ -13,6 +13,13 @@ form{
   display:inline;
   
 }
+.heading{
+  margin-top: 50px;
+  margin-left:560px;
+  margin-bottom: 0px;
+  text-shadow: 2px 2px 5px red;
+  font-size: 40px;
+}
 .opt {
   width: 254px;
   height: 40px;
