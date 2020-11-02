@@ -16,7 +16,7 @@
            <li><a href="addquestion.php">Add Question</a></li>
            <li><a href="showQuestion.php">View Question</a></li>
            <li><a href="#">User Result</a></li>
-           <li><a  href="login.php" style="margin-left: 600px;">Log out</a></li>
+           <li><a  href="login.php" style="margin-left: 700px;">Log out</a></li>
         </ul>
     </div>
     <table>
