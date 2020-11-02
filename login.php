@@ -29,7 +29,7 @@ if (isset($_POST['submit'])) {
       <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-    <h2>Login</h2>
+    <h2 class="heading">Login</h2>
     <div id="errors">
       <?php if(sizeof($errors)>0) : ?>
     <ul>
