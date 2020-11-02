@@ -44,7 +44,7 @@ Signup
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-<h2>Signup</h2>
+<h2 class="heading">Signup</h2>
 <div><?php echo $message; ?></div>
 <div id="errors">
   <?php if(sizeof($errors)>0) : ?>
